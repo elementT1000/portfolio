@@ -1,0 +1,4 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Closer Fulcrum - A Portfolio Project
+theme: ["PaperMod"]
