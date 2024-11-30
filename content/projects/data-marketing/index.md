@@ -6,8 +6,9 @@ date: 2024-10-25
 author: ["Ethan Trotter"]
 draft: false
 showtoc: true
-slug: "dat-driven-marketing" #Changes the URL
+slug: "data-driven-marketing" #Changes the URL
 weight: 5
+#This needs a lot of work. Include Matt's recommendations on dtats. Also, look at Christine Jiang's feedback on data portfolios. Suggestion to myself: Do something like "Three statistical models, informed by real world data. So, I can get rid of the shit data
 ---
 
 ## Introduction

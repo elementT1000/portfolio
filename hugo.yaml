@@ -17,7 +17,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ethan Trotter
   #website metadata
-  description: "This is the portfolio website of Ethan Trotter. It's here to demonstrate my interests in Data Analytics and the projects that excite me."
+  description: "Ethan Trotter's portfolio website."
   keywords: [Blog, Portfolio, PaperMod]
   author: Ethan
   # author: ["Me", "You"] # multiple authors
@@ -51,7 +51,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ethan Trotter
-    subtitle: "This is the portfolio website of Ethan Trotter. It's here to demonstrate my interests in Data Analytics and the projects that excite me."
+    subtitle: "A data analysis machine. Inputs: Coffee, Raw Data; Outputs: Key Insights for Stakeholders. This portfolio website is where I demonstrate my interests in Data Analytics and the projects that excite me."
     imageUrl: "images/LinkedInProfile.jpg"
     imageWidth: 120
     imageHeight: 120
