@@ -1,11 +1,12 @@
 ---
-title: "How to enter a new tiktok niche?"
+title: "Organic Marketing: How to enter a new tiktok niche"
 summary: Identifying top influencers, highly leveraged accounts, and relevant hashtags
-date: 2024-11-29
+date: 2024-10-17
 #tags: ["PaperMod", "Docs"]
 author: ["Ethan Trotter"]
 draft: false
-slug: "first-post" #Changes the URL
+showtoc: true
+slug: "tiktok-niche" #Changes the URL
 weight: 5
 ---
 
@@ -52,12 +53,12 @@ ___
 ___
 *1. How are creators in our niche currently getting their content in front of the right people organically? More specifically, what hashtags are they using to help communicate their target audience to the platform's algorithm?*
 
-#### Chart 1:
+### Chart 1:
 ![alt text](images/TotalViewCountPieChart.png)
 
 The 'Top Hashtags by Total View Count' pie chart reveals the hashtags associated with the most views for the search query 'Content Creator Tips.' Unsurprisingly, #contentcreatortips is the top result, probably due to how TikTok calculates their Search Engine Optimization (SEO). But, it is worth noting that the rest of the 24 hashtags offer some other ideas of how one might use hashtags to get in front of an audience interested in content creator tips. **Some other tangential customer segments may also be identified. Such as UGC creators, people interested in social media marketing, or people interested in TikTok news.**
 
-#### Chart 2:
+### Chart 2:
 ![alt text](images/AvgEngagementPieChart.png)
 
 An interesting insight can be gained from the second pie chart, 'Top Hashtags by Average Engagement Rate.' The posts with the highest engagement are associated with more actionable and specific hashtags. Accounts can get a lot more interaction with the audience by talking about photography tips, and tools to create content such as the Creator Search Insights tool and the Greenscreen effect used in the content creation part of the app. 
@@ -66,12 +67,12 @@ An interesting insight can be gained from the second pie chart, 'Top Hashtags by
 
 *2. Who are the current top performers in our niche in terms of views and engagement?*
 
-#### Chart 3:
+### Chart 3:
 ![alt text](images/AllTop10Accounts.png)
 
 When observing the bar charts for the top 10 accounts for each metric, there is not a clear winner or set of accounts that are leaders. So, it was necessary to create a composite scoring function that incorporated normalized data from the metrics we are observing. 
 
-#### Chart 4:
+### Chart 4:
 ![alt text](images/Top10AccountsCompositeScore.png)
 
 The process of calculating the composite engagement score involves two steps: First, we aggregate the metrics (views, likes, comments, shares) for each user by calculating their average per video. 
@@ -79,20 +80,20 @@ Then, we normalize these aggregated metrics using Minimum-Maximum scaling and ca
 
 From this data, we can see that **the top performing accounts in this niche**. Further investigation of their videos are necessary to determine the differentiating factors. Variables such as their delivery of their content (tone, cadence, non-verbal communication), the hook that they use (the first 3-5 seconds of the video), and reposting networks should be considered, among other variables.
 
-#### Chart 5:
+### Chart 5:
 ![alt text](images/CorrelationMatrix.png)
 
 Observing the bar charts of the top 10 accounts above, one of the charts stands out as very different; The Top 10 accounts for comments does not contain many of the top performers from the other charts. This seems to indicate that comments perform differently in the algorithm that determines virality of a video. So, a Correlation Matrix (above) was created to evaluate this. It seems that **comment count does not correlate strongly with other metrics**. Further investigation is necessary to determine if this is due to outlier videos - videos with a very high or low number of comments. Or, potentially this may be a novel observation.
 
 *3. Assuming we are starting from scratch, can we identify some creators in our niche that have low follower counts but have high views and engagement? This could inform a strategy for scaling quickly.*
 
-#### Chart 6:
+### Chart 6:
 ![alt text](images/ScatterPlotViewsVsFollowers.png)
 
 The scatter plot uses a logarithmic scale to chart view count vs. follower count. The user can highlight the dots in the plot generated in the jupyter notebook to identify the account and it's X and Y values. 
 **For a new account, a tool like this can be used to identify accounts that have performed well with a relatively low follower count.**
 
-#### Chart 7:
+### Chart 7:
 ![alt text](images/LassoOnScatterPlot.png)
 
 For example, the accounts contained in the circle above have under 10k followers, but over 200k views on the video that appears in this search query. Investigating this video, and the account may indicate variables that could be used to mimic this virality.
