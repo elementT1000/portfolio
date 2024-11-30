@@ -1,0 +1,13 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+/* Adjust spacing between posts if needed */
+.profile {
+    margin-top: -150px;
+}
+
+.profile + .posts {
+    margin-top: -150px;  /* Adjust this value as needed */
+}
