@@ -1,0 +1,1 @@
+The covers folder is for images that are banners at the top of articles.

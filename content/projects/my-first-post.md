@@ -5,6 +5,7 @@ date: 2024-11-29
 #tags: ["PaperMod", "Docs"]
 author: ["Ethan Trotter"]
 draft: false
+slug: "first-post" #Changes the URL
 weight: 5
 ---
 
