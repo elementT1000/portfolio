@@ -4,7 +4,7 @@ summary: Using real-world telemarketing data to assess a campaign
 date: 2024-10-25
 #tags: ["PaperMod", "Docs"]
 author: ["Ethan Trotter"]
-draft: false
+draft: true
 showtoc: true
 slug: "data-driven-marketing" #Changes the URL
 weight: 5
