@@ -5,7 +5,7 @@ date: 2024-12-04
 #tags: ["PaperMod", "Docs"]
 author: ["Ethan Trotter"]
 draft: false
-showtoc: false
+showtoc: true
 slug: "ecommerce-performance" #Changes the URL
 weight: 5
 ---
@@ -21,11 +21,7 @@ This performance report was prepared for the executive leadership team of Tech H
 
  The insights and recommendations provided are intended to enhance performance across sales and marketing efforts.
 
-<details>
-<summary>Specific Stakeholder Questions</summary>
-
-This section represents the specific questions and requests that stakeholders have given to the data team. It is here to provide traceability and accountability for this project. 
-
+## Specific Stakeholder Questions<
 **Sales Trends**
 
 1. What were Tech Haven's sales revenue trends between 2019 and 2022?
@@ -42,32 +38,7 @@ This section represents the specific questions and requests that stakeholders ha
 
 7. Which products have generated the highest/lowest revenue? 
 8. Investigate refund rates and report on general trends.
-</details>
-
 ---
-## Table of Contents
-
-1. [Executive Summary](#executive-summary)
-2. [Insights Deep Dive](#insights-deep-dive)
-   - [Sales Trends](#sales-trends)
-     - [Overview of Revenue Trends (2019–2022)](#overview-of-revenue-trends-2019-2022)
-     - [Seasonality and Revenue Growth Patterns](#seasonality-and-revenue-growth-patterns)
-     - [Order Volume and Average Order Value (AOV)](#order-volume-and-average-order-value-aov)
-     - [Summary of Sales Trends Analysis](#summary-of-sales-trends-analysis)
-   - [Consumer Behavior](#consumer-behavior)
-     - [Marketing](#marketing)
-     - [Geographic Distribution of Customers](#geographic-distribution-of-customers)
-     - [Loyalty Program](#loyalty-program)
-     - [Summary of Consumer Behavior](#summary-of-consumer-behavior)
-   - [Products and Refunds](#products-and-refunds)
-     - [Overview](#overview)
-     - [Sales Performance](#sales-performance)
-     - [Summary and Key Takeaways](#summary-and-key-takeaways)
-3. [Recommendations](#recommendations)
-4. [Questions and Limitations](#questions-and-limitations)
-   - [Questions for Stakeholders](#questions-for-stakeholders)
-   - [Limitations: Data Quality and Completeness](#limitations-data-quality-and-completeness)
-
 
 ## Executive Summary
 Tech Haven’s performance analysis from 2019 to 2022 highlights key opportunities and challenges in sales, marketing, and product strategy. While revenue grew 41% since 2019, sales have declined steadily post-pandemic, with December consistently underperforming, indicating missed opportunities during the holiday season. Direct marketing drives the majority of sales, though affiliate marketing offers untapped potential with the highest Average Order Value (AOV) at $312. The loyalty program, despite its large membership base, underperforms, as members contribute less revenue, have lower AOVs, and higher refund rates compared to non-members. Product performance is dominated by high-revenue items like the 27in 4K Gaming Monitor and Apple AirPods, while low-volume products such as Bose Headphones and Samsung Charging Packs contribute minimally. To address these issues, strategic focus on optimizing Q4 marketing, expanding affiliate efforts, refining the product lineup, and redesigning the loyalty program is recommended to drive growth and improve customer engagement.

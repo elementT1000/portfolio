@@ -1,5 +1,5 @@
 ---
-title: "Using human pose estimation to help Physical Therapists collect patient data"
+title: "Using Human Pose Estimation to Help Physical Therapists Collect Patient Data"
 summary: Using computer vision and classic ML to collect movement data on patients
 date: 2024-10-19
 #tags: ["PaperMod", "Docs"]
