@@ -5,7 +5,7 @@ date: 2024-12-04
 #tags: ["PaperMod", "Docs"]
 author: ["Ethan Trotter"]
 draft: false
-showtoc: true
+showtoc: false
 slug: "ecommerce-performance" #Changes the URL
 weight: 5
 ---
