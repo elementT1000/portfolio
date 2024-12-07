@@ -21,7 +21,7 @@ This performance report was prepared for the executive leadership team of Tech H
 
  The insights and recommendations provided are intended to enhance performance across sales and marketing efforts.
 
-## Specific Stakeholder Questions<
+## Specific Stakeholder Questions
 **Sales Trends**
 
 1. What were Tech Haven's sales revenue trends between 2019 and 2022?
@@ -42,6 +42,22 @@ This performance report was prepared for the executive leadership team of Tech H
 
 ## Executive Summary
 Tech Haven’s performance analysis from 2019 to 2022 highlights key opportunities and challenges in sales, marketing, and product strategy. While revenue grew 41% since 2019, sales have declined steadily post-pandemic, with December consistently underperforming, indicating missed opportunities during the holiday season. Direct marketing drives the majority of sales, though affiliate marketing offers untapped potential with the highest Average Order Value (AOV) at $312. The loyalty program, despite its large membership base, underperforms, as members contribute less revenue, have lower AOVs, and higher refund rates compared to non-members. Product performance is dominated by high-revenue items like the 27in 4K Gaming Monitor and Apple AirPods, while low-volume products such as Bose Headphones and Samsung Charging Packs contribute minimally. To address these issues, strategic focus on optimizing Q4 marketing, expanding affiliate efforts, refining the product lineup, and redesigning the loyalty program is recommended to drive growth and improve customer engagement.
+
+## Database Schema
+*Figure 0: Entity Relationship Diagram for Tech Haven's Database*
+![alt text](images/th_db_ERD.png)
+
+Tech Haven makes use of a relational database. The main components used for this analysis are stored in four tables: ORDERS, PROFILES, RETURNS, and REGION_CODES. 
+They have the following relationships:
+- ORDERS → PROFILES: A one-to-many relationship through `customer_id`, indicating that each customer can place multiple orders.
+- PROFILES → REGION_CODES: A one-to-one relationship through `country_code`, connecting customer profiles to their geographic regions.
+- ORDERS → RETURNS: A one-to-one relationship through `order_id`, indicating that some orders may result in returns.
+
+This data was retrieved using SQL queries and imported into Microsoft Excel for two primary reasons:
+1. Straightforward tools for creating pivot tables and visualizations
+2. Sharing the workbook and results with Tech Haven's employees that are not granted database access.
+
+The resulting Excel workbook with cleaned data (sheets and binary format) is stored in the `data/workbook  ` directory. 
 
 ## Insights Deep Dive
 ### Sales Trends
