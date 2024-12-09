@@ -5,9 +5,9 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 */
 /* Adjust spacing between posts if needed */
 .profile {
-    margin-top: -150px;
+    margin-top: 0px;
 }
 
 .profile + .posts {
-    margin-top: -150px;  /* Adjust this value as needed */
+    margin-top: -50px;  /* Adjust this value as needed */
 }

@@ -6,8 +6,32 @@
     <description>Recent content on Ethan Trotter</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance Analysis of Tech Haven’s Ecommerce Operations (2019–2022)</title>
+      <link>http://localhost:1313/portfolio/projects/ecommerce-performance/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/projects/ecommerce-performance/</guid>
+      <description>&lt;h1 id=&#34;performance-analysis-of-tech-havens-ecommerce-operations-20192022&#34;&gt;Performance Analysis of Tech Haven’s Ecommerce Operations (2019–2022)&lt;/h1&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;This performance report was prepared for the executive leadership team of Tech Haven, an e-commerce brand specializing in popular mobile electronics. This report uses Tech Haven&amp;rsquo;s in-house data to investigate:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overall sales trends&lt;/li&gt;
+&lt;li&gt;Marketing channels that drive Tech Haven&amp;rsquo;s web traffic&lt;/li&gt;
+&lt;li&gt;The geographic distribution of customers&lt;/li&gt;
+&lt;li&gt;Results driven by the loyalty program&lt;/li&gt;
+&lt;li&gt;Best and worst performing products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The insights and recommendations provided are intended to enhance performance across sales and marketing efforts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QuickQMS Subscription Revenue Trends during the COVID-19 Pandemic</title>
+      <link>http://localhost:1313/portfolio/projects/saas-sales-rev/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/projects/saas-sales-rev/</guid>
+      <description>A concise report on subscription revenue for a MedTech startup during 2020-2021 using SQL and Tableau.</description>
+    </item>
     <item>
       <title>Resume</title>
       <link>http://localhost:1313/portfolio/resume/</link>
@@ -16,14 +40,7 @@
       <description>A brief summary of my professional experience and skills</description>
     </item>
     <item>
-      <title>Data Driven Marketing: Pattern Recognition and Optimizing Campaigns with SQL and Stats</title>
-      <link>http://localhost:1313/portfolio/projects/data-driven-marketing/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/projects/data-driven-marketing/</guid>
-      <description>Using real-world telemarketing data to assess a campaign</description>
-    </item>
-    <item>
-      <title>Using human pose estimation to help Physical Therapists collect patient data</title>
+      <title>Using Human Pose Estimation to Help Physical Therapists Collect Patient Data</title>
       <link>http://localhost:1313/portfolio/projects/t4-project/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/portfolio/projects/t4-project/</guid>

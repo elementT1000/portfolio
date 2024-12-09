@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/portfolio/projects/ecommerce-performance/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/projects/saas-sales-rev/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portfolio/resume/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/projects/data-driven-marketing/</loc>
-    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/t4-project/</loc>
     <lastmod>2024-10-19T00:00:00+00:00</lastmod>
@@ -15,9 +18,12 @@
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/</loc>
-    <lastmod>2024-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/projects/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/drafts/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/categories/</loc>

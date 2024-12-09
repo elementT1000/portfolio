@@ -51,7 +51,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ethan Trotter
-    subtitle: "A data analysis machine. Inputs: Coffee, Raw Data; Outputs: Key Insights for Stakeholders."
+    subtitle: "Strong background in B2B SaaS and medical technology with 3+ years of experience working with complex datasets, multiple simultaneous projects, and using data for real-world decision making. Bachelor's in Biomedical Engineering and in-depth experience with sales, software engineering, and real-world data analytics."
     imageUrl: "images/LinkedInProfile.jpg"
     imageWidth: 120
     imageHeight: 120
