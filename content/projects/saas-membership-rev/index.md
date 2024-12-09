@@ -1,5 +1,5 @@
 ---
-title: "QuickQMSSubscription Revenue Trends during the COVID-19 Pandemic"
+title: "QuickQMS Subscription Revenue Trends during the COVID-19 Pandemic"
 summary: "A concise report on subscription revenue for a MedTech startup during 2020-2021 using SQL and Tableau."
 date: 2024-12-01
 #tags: ["PaperMod", "Docs"]
